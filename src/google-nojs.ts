@@ -40,7 +40,7 @@ export class GoogleNojsSERP {
       return;
     }
 
-    if ($('body').attr('jsmodel') === 'TvHxbe') {
+    if ($('body').attr('jsmodel') === 'hspDDf') {
       this.parseGoogle(opt);
     } else {
       this.serp.error = 'Not Google nojs page';
